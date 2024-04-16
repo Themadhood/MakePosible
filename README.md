@@ -1,2 +1,2 @@
 # MakePosible
-makes all possibility's.
+makes all possibility's given a set of perameters.
